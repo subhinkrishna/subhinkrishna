@@ -29,7 +29,7 @@ I’m a passionate **Full Stack Developer** specializing in the **MERN stack** w
 
 - 🌐 Website: [subhinkrishna.vercel.app](https://subhinkrishna.vercel.app/)
 - 🔗 LinkedIn: [linkedin.com/in/subhinkrishna](https://www.linkedin.com/in/subhinkrishna/)
-- 📧 Email: subhinkrishna@example.com
+- 📧 Email: subhinkrishna.suresh@gmail.com
 
 ---
 

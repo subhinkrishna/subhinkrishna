@@ -8,6 +8,7 @@
 
 I’m a passionate **Full Stack Developer** specializing in the **MERN stack** with extensive experience in **server configuration**, **deployment**, and **end-to-end web application development**. I began my career as a Business Analyst, honing my skills in requirement analysis, documentation, and testing, before embracing my true passion: coding.
 
+- 🎓 MCA/ Master in Computer Application (2025 - Present)
 - 🎓 B.Sc. in Computer Technology (2021)
 - 💼 Business Analyst (Jun 2021 – May 2022)
 - 🌐 Freelance Web Developer (Jun 2022 – Sep 2024)

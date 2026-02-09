@@ -33,7 +33,7 @@ I’m a passionate **Full Stack Developer** specializing in the **MERN stack** w
 
 ---
 
-> "The Quality of the code reflects how well the requirement* has been analysed." 
+> "The Quality of the code reflects how well the requirement has been analysed." 
 > — SK
 
 ---
